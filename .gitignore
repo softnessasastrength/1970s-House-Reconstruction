@@ -1,0 +1,11 @@
+# Revit transient files
+*.slog
+*.0001.rvt
+*.0002.rvt
+*.0003.rvt
+*.0004.rvt
+*.rws
+*.dat
+Thumbs.db
+.DS_Store
+~$*
